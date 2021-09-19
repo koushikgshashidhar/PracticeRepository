@@ -30,7 +30,7 @@ class TestClass {
          System.out.println(s3);
          System.out.println(s3);
          System.out.println(s3);
-         
+         System.out.println(s3);
          
          /* Declare second integer, double, and String variables. */
 
