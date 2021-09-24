@@ -21,17 +21,14 @@ class TestClass {
          int i2=scan.nextInt();
          double d2=scan.nextDouble();
          String s2=new String(); 
-        // scan.nextLine();
+         scan.nextLine();
          s2=scan.nextLine();
          String s3=s.concat(s2);
          System.out.println(i+i2);
          System.out.println(d+d2);
        //  System.out.println(s2);
          System.out.println(s3);
-         System.out.println(s3);
-         System.out.println(s3);
          
-         System.out.println("HEllo world");
          /* Declare second integer, double, and String variables. */
 
          /* Read and save an integer, double, and String to your variables.*/
